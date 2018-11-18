@@ -5,4 +5,4 @@ But the sensors visibility is confined to its 8 adjacent cells.
 It's the solution of HackerRank's Artificial Intelligence problem named 'Bot Clean Partially Observable'
 
 ### Results
-<img src = 'botClean_observable.gif' width = '80%'>
+<img src = 'botClean_observable.gif' width = '50%'>
