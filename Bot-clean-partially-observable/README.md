@@ -5,4 +5,6 @@ But the sensors visibility is confined to its 8 adjacent cells.
 It's the solution of HackerRank's Artificial Intelligence problem named 'Bot Clean Partially Observable'
 
 ### Results
+Bot took 20 steps (Cleaning is also considered as a step) in finding and cleaning all dirty cells
+
 <img src = 'botClean_observable.gif' width = '50%'>
